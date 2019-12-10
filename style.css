@@ -1,0 +1,18 @@
+
+h3,h1,.a {
+  font-family: arial;
+  
+}
+h1.highlight{
+  background: black;
+}
+h1 {
+  color: white;
+}
+h3{
+  color: black;
+}
+.a
+{
+  color: #21618C
+}
